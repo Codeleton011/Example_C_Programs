@@ -7,14 +7,14 @@
 // Employee structure
 typedef struct{
 	int age;
-	char name;
+	char* name;
 	float sallary;
 } employee;
 
 // Main
 int main()
 {
-	//Dynamic mem alloc
+	//Dynamic memory allocation
 	employee * em1 = malloc(sizeof(employee));
 
 	em1->age = 20;
@@ -23,9 +23,11 @@ int main()
 
 	//Print informations to the screen
 	printf("Employee information: \n");
-	printf("Name: %s", em1->name);
-	printf("Age: %d", em1->age);
-	printf("Sallary: %f", em1->sallary);
+	printf("Name: %s \n", em1->name);
+	printf("Age: %d \n", em1->age);
+	printf("Sallary: %f \n", em1->sallary);
+
+	getchar(); // Prevent cmd closed
 
 	return 0;
 }
