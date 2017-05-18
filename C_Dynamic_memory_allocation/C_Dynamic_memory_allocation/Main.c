@@ -3,7 +3,6 @@
 // Date: 2017. 05. 18
 
 #include <stdio.h>
-
 // Employee structure
 typedef struct{
 	int age;
