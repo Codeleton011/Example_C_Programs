@@ -1,4 +1,4 @@
-// An C Basic Calculator
+// C_Global_variables
 // Author: Codeleton011
 // Date: 2017. 05. 21
 
