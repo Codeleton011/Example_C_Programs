@@ -1,6 +1,6 @@
 // An C Basic Calculator
 // Author: Codeleton011
-// Date: 2017. 05. 18
+// Date: 2017. 05. 21
 
 // Codeleton011
 
