@@ -1,4 +1,4 @@
-// An C Basic Calculator
+// C_Multi_dimensional_array
 // Author: Codeleton011
 // Date: 2017. 05. 21
 
