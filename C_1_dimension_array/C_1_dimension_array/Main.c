@@ -1,4 +1,4 @@
-// An C Basic Calculator
+// C_1_dimension_array
 // Author: Codeleton011
 // Date: 2017. 05. 21
 
